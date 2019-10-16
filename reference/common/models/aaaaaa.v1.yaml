@@ -1,0 +1,14 @@
+title: vendor_type
+type: object
+properties:
+  vt_id:
+    type: string
+  vt_name:
+    type: string
+    description: '早餐,午餐,晚餐,宵夜,下午茶,飲料,'
+    enum:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'

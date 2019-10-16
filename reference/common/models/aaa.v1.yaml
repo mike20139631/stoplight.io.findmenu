@@ -1,0 +1,21 @@
+title: vendor_branch
+type: object
+properties:
+  vb_id:
+    type: string
+  vb_v_id:
+    type: string
+  vb_name:
+    type: string
+  vb_tel:
+    type: string
+  vb_addr:
+    type: string
+  vb_latitude:
+    type: string
+  vb_longitude:
+    type: string
+  vb_zoom:
+    type: string
+  vb_vt_id:
+    type: string

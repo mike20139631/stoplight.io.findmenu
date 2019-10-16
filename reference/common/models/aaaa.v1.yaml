@@ -1,0 +1,12 @@
+title: vendor_img
+type: object
+properties:
+  vi_id:
+    type: string
+  vi_thumb:
+    type: string
+  vi_menu_img:
+    type: array
+    items: {}
+  vi_vb_id:
+    type: string

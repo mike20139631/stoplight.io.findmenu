@@ -1,0 +1,7 @@
+title: vendor
+type: object
+properties:
+  v_id:
+    type: string
+  v_name:
+    type: string
