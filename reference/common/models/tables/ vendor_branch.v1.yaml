@@ -28,4 +28,3 @@ properties:
     type: string
 required:
   - vb_id
-  - vb_v_id

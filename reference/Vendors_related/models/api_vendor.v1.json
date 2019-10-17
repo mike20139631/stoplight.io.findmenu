@@ -1,0 +1,40 @@
+{
+  "title": "api_vendor",
+  "type": "object",
+  "properties": {
+    "vb_name": {
+      "type": "string"
+    },
+    "vb_sub_name": {
+      "type": "string"
+    },
+    "vb_zoom": {
+      "type": "string"
+    },
+    "vb_latitude": {
+      "type": "string"
+    },
+    "vb_longitude": {
+      "type": "string"
+    },
+    "vb_tel": {
+      "type": "string"
+    },
+    "vb_addr": {
+      "type": "string"
+    }
+  },
+  "x-examples": {
+    "example-1": {
+      "value": {
+        "vb_name": "八方雲集",
+        "vb_sub_name": "八方雲集南苗店",
+        "vb_zoom": "12",
+        "vb_latitude": "121.12",
+        "vb_longitude": "59.65",
+        "vb_tel": "037-765432",
+        "vb_addr": "苗栗縣泰安鄉永田村186號之1"
+      }
+    }
+  }
+}
