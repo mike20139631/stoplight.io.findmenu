@@ -1,0 +1,5 @@
+title: vendor_seo
+type: object
+properties:
+  vs_id:
+    type: string
